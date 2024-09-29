@@ -12,6 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #fff;
+  padding-top: 56px;
 }
 
 .shadow-wrap {
@@ -81,4 +82,8 @@ body {
   background-color: #fff;
   color: #10182f;
   border-color: #10182f;
+}
+
+.nav{
+  margin-top: 50px;
 }
